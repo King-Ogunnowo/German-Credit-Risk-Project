@@ -18,11 +18,11 @@ This project employs a benchmarking approach to compare the performance of diffe
 Feature importance as tool for model explainability to explain how the model makes predictions. See notebook for this. 
 
 <b>Results</b>
-RandomForestClassifier(random_state=42) 
- RandomForestClassifier test Score : 0.8857142857142857 
- recall_Score : 0.8285714285714286 
- f1_Score : 0.8787878787878788 
- precision_Score : 0.9354838709677419 
+1. RandomForestClassifier(random_state=42) 
+ a. RandomForestClassifier test Score : 0.8857142857142857 
+ b. recall_Score : 0.8285714285714286 
+ c. f1_Score : 0.8787878787878788 
+ d. precision_Score : 0.9354838709677419 
  [[132   8]
  [ 24 116]] 
  
